@@ -1,0 +1,8 @@
+<resources>
+    <string name="DICE">Roll</string>
+    <string name="dice_logo_desc">Dice logo</string>
+    <string name="left_dice_desc">Left dice image</string>
+    <string name="right_dice_desc">Right dice image</string>
+    <string name="app_name">tt</string>
+    <string name="sign_in">Sign In</string>
+</resources>
